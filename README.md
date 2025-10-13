@@ -1,2 +1,18 @@
-# arduino-desktop-fan
-Proyecto completo de un ventilador de escritorio controlado con Arduino. Incluye diseño 3D de la carcasa, fabricación en impresión 3D, desarrollo del circuito y PCB, además de la programación en C++ para el control de velocidad. Un ejemplo de integración práctica de diseño, electrónica y software.
+# Desktop Fan - Proyecto Arduino
+
+Este proyecto es un **ventilador de escritorio** diseñado, fabricado y programado de forma integral. Incluye el desarrollo completo de las diferentes fases:
+
+- 🖥️ **Diseño 3D** de la carcasa e impresión en 3D.  
+- ⚡ **Diseño electrónico y PCB** adaptado al control del ventilador.  
+- 💻 **Programación en C++ con Arduino** para la gestión de velocidad y funcionamiento.  
+
+## 🚀 Tecnologías y herramientas
+- Arduino (C++)  
+- Diseño 3D (Impresión en PLA)  
+- KiCad (PCB)  
+
+## 📷 Vista previa
+*(Aquí puedes añadir imágenes del ventilador, renders o fotos del prototipo terminado)*
+
+## 📌 Autor
+Desarrollado por Gonzalo Barrera Barea  
