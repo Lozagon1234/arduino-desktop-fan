@@ -8,8 +8,8 @@ Este proyecto es un **ventilador de escritorio** diseñado, fabricado y programa
 
 ## 🚀 Tecnologías y herramientas
 - Arduino (C++)  
-- Diseño 3D (Impresión en PLA)  
-- KiCad (PCB)  
+- Diseño 3D (Fusion360)  
+- EasyEDA (PCB)  
 
 ## 📷 Vista previa
 *(Aquí puedes añadir imágenes del ventilador, renders o fotos del prototipo terminado)*
