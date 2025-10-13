@@ -34,5 +34,5 @@ Este proyecto es un **ventilador de escritorio** diseñado, fabricado y programa
 *PCB instalada en el ventilador y lista para pruebas*
 
 ## 📌 Autor
-Desarrollado por *Gonzalo Barrera Barea*
+Desarrollado por ## Gonzalo Barrera Barea
 Graduado en Física - Universidad de Sevilla
