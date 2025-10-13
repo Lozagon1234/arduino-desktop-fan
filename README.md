@@ -37,3 +37,5 @@ Este proyecto es un **ventilador de escritorio** diseñado, fabricado y programa
 **Gonzalo Barrera Barea**  
 Graduado en Física - Universidad de Sevilla
 
+📧 [gonzalobarrerabarea@email.com](mailto:gonzalobarrerabarea@email.com)
+
