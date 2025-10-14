@@ -13,12 +13,11 @@ Este proyecto es un **ventilador de escritorio** diseñado, fabricado y programa
 
 ## ⚙️ Funcionalidades
 
-- 🌡️ Control automático mediante sensor de temperatura y humedad (DHT).  
+- 🌡️ Control automático mediante sensor de temperatura y humedad (DHT11, DHT22, HDC1080, etc).  
 - 🎛️ Regulación de velocidad del ventilador por PWM.  
 - 📺 Pantalla OLED para mostrar velocidad, temperatura y estado del sistema.  
 - 📡 Control remoto por infrarrojos para mayor comodidad.  
 - 🔄 Servo integrado para modificar la dirección del flujo de aire.  
-- 🛠️ Código optimizado en C++ y fácilmente adaptable a otros proyectos.
 
 
 ## 📷 Galería del proyecto
