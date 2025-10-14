@@ -2,9 +2,9 @@
 
 Este proyecto es un **ventilador de escritorio** diseñado, fabricado y programado de forma integral. Incluye el desarrollo completo de las diferentes fases:
 
-- 🖥️ **Diseño 3D** de la carcasa e impresión en 3D.  
-- ⚡ **Diseño electrónico y PCB** adaptado al control del ventilador.  
-- 💻 **Programación en C++ con Arduino** para la gestión de velocidad y funcionamiento.  
+- **Diseño 3D** de la carcasa e impresión en 3D.  
+- **Diseño electrónico y PCB** adaptado al control del ventilador.  
+- **Programación en C++ con Arduino** para la gestión de velocidad y funcionamiento.  
 
 ## 🚀 Tecnologías y herramientas
 - Arduino (C++)  
@@ -13,26 +13,25 @@ Este proyecto es un **ventilador de escritorio** diseñado, fabricado y programa
 
 ## ⚙️ Funcionalidades
 
-- 🌡️ Control automático mediante sensor de temperatura y humedad (DHT11, DHT22, HDC1080, etc).  
-- 🎛️ Regulación de velocidad del ventilador por PWM.  
-- 📺 Pantalla OLED para mostrar velocidad, temperatura y estado del sistema.  
-- 📡 Control remoto por infrarrojos para mayor comodidad.  
-- 🔄 Servo integrado para modificar la dirección del flujo de aire.  
+- Control automático mediante sensor de temperatura y humedad (DHT11, DHT22, HDC1080, etc).  
+- Regulación de velocidad del ventilador por PWM.  
+- Pantalla OLED para mostrar velocidad, temperatura y estado del sistema.  
+- Control remoto por infrarrojos para mayor comodidad.  
+- Servo integrado para modificar la dirección del flujo de aire.  
 
 
 ## 📷 Galería del proyecto
 
 ### Diseño 3D
 <img src="https://github.com/user-attachments/assets/6261200d-fdc6-42ed-b690-1e5a0bf116cb" alt="fan_render" width="600"/><br>
-*Render del ventilador diseñado en 3D*
+*Render del ventilador*
 
 ### Ventilador usado
 <img src="https://github.com/user-attachments/assets/7794f2b1-b87e-4b25-8ec4-a5423928f451" alt="noctua_fan" width="400"/><br>
-*Ventilador usado*
 
 ### Simulación PCB
 <img src="https://github.com/user-attachments/assets/15145f88-0daa-44d0-ab55-27c22b89c432" alt="pcb_simulation" width="400"/><br>
-*Simulación del circuito PCB antes de fabricación*
+*Simulación del circuito PCB antes de su fabricación*
 
 ### PCB fabricada
 <img src="https://github.com/user-attachments/assets/c0525166-7f6d-4244-a5f7-9837716aa98f" alt="completed_PCB" width="400"/><br>
